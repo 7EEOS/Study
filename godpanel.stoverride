@@ -8,7 +8,7 @@ version: 1.0
 
 script-providers:
   godpanel:
-    url: https://raw.githubusercontent.com/你的用户名/你的仓库/main/godpanel.js
+    url: https://raw.githubusercontent.com/7EEOS/Study/refs/heads/main/index.js
     interval: 86400
 
 script:
