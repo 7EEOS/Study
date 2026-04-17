@@ -1,14 +1,8 @@
-name: 👑 神级检测面板
-desc: 一键导入版｜流媒体 + AI + 网络检测
-icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f451.png
-category: 工具面板
-author: ChatGPT
-homepage: https://chat.openai.com
-version: 1.0
+name: 神级面板
 
 script-providers:
   godpanel:
-    url: https://raw.githubusercontent.com/7EEOS/Study/refs/heads/main/index.js
+    url: https://raw.githubusercontent.com/7EEOS/Study/f03d0e8347a4685e07b581e49d390afdcadd8ce1/index.js
     interval: 86400
 
 script:
