@@ -1,0 +1,18 @@
+name: 👑 神级检测面板
+desc: 一键导入版｜流媒体 + AI + 网络检测
+icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f451.png
+category: 工具面板
+author: ChatGPT
+homepage: https://chat.openai.com
+version: 1.0
+
+script-providers:
+  godpanel:
+    url: https://raw.githubusercontent.com/你的用户名/你的仓库/main/godpanel.js
+    interval: 86400
+
+script:
+  shortcuts:
+    神级检测:
+      icon: bolt.shield.fill
+      script: godpanel
